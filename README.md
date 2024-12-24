@@ -17,7 +17,7 @@
 ## Comparison with Existing Benchmarks📊
 
 <table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
-  <caption>Comparisons between existing LVLM benchmarks. '⍻' indicates that the benchmarks include both newly collected images / annotations and images / annotations gathered from existing datasets. '*' The scale of our released benchmark is 617K, however Dysca is able to generate unlimited data to be tested.</caption>
+  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source. '*' The scale of our released benchmark is 617K, however Dysca is able to generate unlimited data to be tested.</caption>
   <thead>
     <tr>
       <th>Benchmark</th>
@@ -84,31 +84,56 @@
   </tbody>
 </table>
 
-![Close-ended evaluation framework](./docs/framework-gai.png)
-
-**Figure 3. Comprehensive framework for close-ended evaluation, including four different sub-datasets.**
-
 ### Key statistics of VLBiasBench📊
 
-| Statistic | Image Number | Sample Number |
-| --- | --- | --- |
-| Total questions | 46848 | 128342 |
-|  **open-ended questions** | 27991 | 29348 |
-| \- gender | 6390 | 6390 |
-| \- race | 10538 | 10538 |
-| \- religion | 910 | 910 |
-| \- profession | 10153 | 11510 |
-| **close-ended questions** | 18857 | 98994 |
-| \- age | 2687 | 12702 |
-| \- disability status | 689 | 3670 |
-| \- gender | 747 | 4214 |
-| \- nationality | 1592 | 8660 |
-| \- physical appearance | 1029 | 5186 |
-| \- race | 2375 | 12026 |
-| \- religion | 709 | 3698 |
-| \- social economic status | 3782 | 20776 |
-| \- race x gender | 3486 | 18692 |
-| \- race x ses | 1761 | 9370 |
+<table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
+  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source. '*' The scale of our released benchmark is 617K, however Dysca is able to generate unlimited data to be tested.</caption>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th>Dimension</th>
+      <th>Data Scale</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Privacy Image Recognition</td>
+      <td>Privacy Awareness</td>
+      <td>3,202</td>
+    </tr>
+    <tr>
+      <td>Privacy Question Detection</td>
+      <td>Privacy Awareness</td>
+      <td>14,184</td>
+    </tr>
+    <tr>
+      <td>Privacy InfoFlow Assessment</td>
+      <td>Privacy Awareness</td>
+      <td>392</td>
+    </tr>
+    <tr>
+      <td>Perception Leakage</td>
+      <td>Privacy Leakage</td>
+      <td>2,232</td>
+    </tr>
+    <tr>
+      <td>Reasoning Leakage</td>
+      <td>Privacy Leakage</td>
+      <td>2,682</td>
+    </tr>
+    <tr>
+      <td>Memory Leakage</td>
+      <td>Privacy Leakage</td>
+      <td>3,798</td>
+    </tr>
+    <tr>
+      <td>Insensitive Questions</td>
+      <td>Privacy Leakage</td>
+      <td>5,472</td>
+    </tr>
+    
+  </tbody>
+</table>
 
 
 
