@@ -87,7 +87,7 @@
 ### Key statistics of VLBiasBench📊
 
 <table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
-  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source. '*' The scale of our released benchmark is 617K, however Dysca is able to generate unlimited data to be tested.</caption>
+  <caption>In total, Multi-P<sup>2</sup>A comprises 31,962 samples. The sample scales for each task are shown below.</caption>
   <thead>
     <tr>
       <th>Task</th>
