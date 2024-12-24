@@ -135,32 +135,24 @@
 </table>
 
 
+## Examples of VLBiasBench📸
 
-### Examples of VLBiasBench📸
+![Samples of Privacy Awareness](./docs/Open_African.png)
 
-![A sample in open-ended evaluation](./docs/Open_African.png)
-
-![A sample in close-ended evaluation](./docs/Close_3n.png)
-
-<!--### Evaluation Results🏆
-
-![Overview of the construction of VLBiasBench](./docs/Figure2.png)
-**Figure 4. Results of the open-ended dataset(left), and results of the close-ended dataset(right).**-->
-
-### Related projects
-
-+   [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
-+   [EMU2](https://github.com/baaivision/Emu)
-+   [InstructBLIP](https://github.com/salesforce/LAVIS/blob/main/projects/instructblip)
-+   [LLaVA-1.5](https://github.com/haotian-liu/LLaVA)
-+   [miniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)
-+   [miniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4)
-+   [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
-+   [Shikra](https://github.com/shikras/shikra)
-+   [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
+![Samples of Privacy Leakage](./docs/Close_3n.png)
 
 
-### Links🔗
+## Related projects🔗
+- [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
+- [InstructBLIP](https://github.com/salesforce/LAVIS/blob/main/projects/instructblip)
+- [LLaVA-1.5](https://github.com/haotian-liu/LLaVA)
+- [miniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [Otter](https://github.com/Vision-CAIR/MiniGPT-4)
+- [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+- [Shikra](https://github.com/shikras/shikra)
+- [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
+
+## Links🔗
 
 🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/VLBiasBench)
 
