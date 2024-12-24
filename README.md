@@ -84,7 +84,7 @@
   </tbody>
 </table>
 
-### Key statistics of VLBiasBench📊
+## Key statistics of VLBiasBench📊
 
 <table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
   <caption>In total, Multi-P<sup>2</sup>A comprises 31,962 samples. The sample scales for each task are shown below.</caption>
@@ -130,8 +130,7 @@
       <td>Insensitive Questions</td>
       <td>Privacy Leakage</td>
       <td>5,472</td>
-    </tr>
-    
+    </tr> 
   </tbody>
 </table>
 
@@ -148,7 +147,7 @@
 ![Overview of the construction of VLBiasBench](./docs/Figure2.png)
 **Figure 4. Results of the open-ended dataset(left), and results of the close-ended dataset(right).**-->
 
-### Related projects🔗
+### Related projects
 
 +   [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 +   [EMU2](https://github.com/baaivision/Emu)
@@ -156,31 +155,12 @@
 +   [LLaVA-1.5](https://github.com/haotian-liu/LLaVA)
 +   [miniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)
 +   [miniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4)
-+   [Otter](https://github.com/Vision-CAIR/MiniGPT-4)
 +   [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 +   [Shikra](https://github.com/shikras/shikra)
 +   [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
 
-### Cite our work📝
 
-@article{zhang2024vlbiasbench,
-  
-  title={VLBiasBench: A Comprehensive Benchmark for Evaluating Bias in Large Vision-Language Model},
-  
-  author={Zhang, Jie and Wang, Sibo and Cao, Xiangkui and Yuan, Zheng and Shan, Shiguang and Chen, Xilin and Gao, Wen},
-  
-  journal={arXiv preprint arXiv:2406.14194},
-  
-  year={2024}
-
-}      
-    
-
-### Acknowledgement
-
-This section will include acknowledgements...
-
-### Links
+### Links🔗
 
 🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/VLBiasBench)
 
