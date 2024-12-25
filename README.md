@@ -136,8 +136,10 @@
 
 
 ## Examples of VLBiasBench📸
+
 ### Privacy Awareness
 ![Samples of Privacy Awareness](./docs/awareness.png)
+
 ### Privacy Leakage
 ![Samples of Privacy Leakage](./docs/leakage.png)
 
@@ -154,9 +156,10 @@
 
 ## Links🔗
 
-🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/VLBiasBench)
+🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/Multi-P2A)
 
 🔗The link to our paper is [\[arxiv\]](https://arxiv.org/abs/2406.14194)
 
-🔗The link to our dataset is [\[Google Drive\]](https://drive.google.com/drive/folders/1YJx-6zCd506Xbm8rUtELKrRMp6nZbRuV?usp=drive_link)
-We introduce Multi-P<sup>2</sup>A, a Multi-perspective Privacy Assessment aimed at evaluating privacy risks of LVLMs comprehensively.
+🔗The link to our dataset is [\[Google Drive\]](https://drive.google.com/file/d/1TxPxdEFFP2HBKnJX9q2eiJ3530PPxNkZ/view?usp=sharing)
+
+🔗The link to our dataset is [\[Baidu NetDisk\]](https://pan.baidu.com/s/1bp4wfwF6HIYECmd-WOwDlA?pwd=8mqx)
