@@ -1,6 +1,6 @@
 ## Multi-P<sup>2</sup>A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
 
-### Overview🔍
+## Overview🔍
 
 ![Overview of Multi-P<sup>2</sup>A](./docs/overall.png)
 
@@ -8,7 +8,7 @@
 
 **Abstract -** Large Vision-Language Models (LVLMs) exhibit impressive potential across various tasks but also face significant privacy risks, limiting their practical applications. Current researches on privacy assessment for LVLMs is limited in scope, with gaps in both assessment dimensions and privacy categories. To bridge this gap, we propose Multi-P<sup>2</sup>A, a comprehensive benchmark for evaluating the privacy preservation capabilities of LVLMs in terms of privacy awareness and leakage. Privacy awareness measures the model's ability to recognize the privacy sensitivity of input data, while privacy leakage assesses the risk of the model unintentionally disclosing privacy information in its output. We design a range of sub-tasks to thoroughly evaluate the model's privacy protection offered by LVLMs. Multi-P<sup>2</sup>A covers 26 categories of personal privacy, 15 categories of trade secrets, and 18 categories of state secrets, totaling 31,962 samples. Based on Multi-P<sup>2</sup>A, we evaluate the privacy preservation capabilities of 21 open-source and 2 closed-source LVLMs. Our results reveal that current LVLMs generally pose a high risk of facilitating privacy breaches, with vulnerabilities varying across personal privacy, trade secret, and state secret.
 
-### VQA Generation
+## VQA Generation
 
 ![VQA Generation Process](./docs/figure2.png)
 
