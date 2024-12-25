@@ -136,9 +136,9 @@
 
 
 ## Examples of VLBiasBench📸
-
+### Privacy Awareness
 ![Samples of Privacy Awareness](./docs/awareness.png)
-
+### Privacy Leakage
 ![Samples of Privacy Leakage](./docs/leakage.png)
 
 
