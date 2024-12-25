@@ -2,7 +2,7 @@
 
 ### Overview🔍
 
-![Overview of Multi-P<sup>2</sup>A](./docs/Figure1-final.png)
+![Overview of Multi-P<sup>2</sup>A](./docs/overall.png)
 
 **Figure 1. Privacy evaluation framework. The framework consists of two key components: Privacy Awareness and Privacy Leakage. Privacy Awareness assesses the model's ability to identify the sensitivity of input data, including the privacy risks associated with images, requests, and the flow of private information in various scenarios. Privacy Leakage focuses on evaluating privacy risks in the model's outputs, classifying potential leakage into three categories: (1) extraction of private information from images, (2) inference of privacy from images, and (3) leakage of sensitive data originating from training data.**
 
@@ -10,7 +10,7 @@
 
 ### VQA Generation
 
-![VQA Generation Process](./docs/open-construction.png)
+![VQA Generation Process](./docs/figure2.png)
 
 **Figure 2. VQA Generation Process. We build Image Database and Attribute Database by collecting images and designing attributes for each privacy category. For each task, we create a variety of question templates which will be randomly selected to generate samples. Each VQA sample is the combination of an image from Image Database and a question from Question Templates.**
 
@@ -137,9 +137,9 @@
 
 ## Examples of VLBiasBench📸
 
-![Samples of Privacy Awareness](./docs/Open_African.png)
+![Samples of Privacy Awareness](./docs/awareness.png)
 
-![Samples of Privacy Leakage](./docs/Close_3n.png)
+![Samples of Privacy Leakage](./docs/leakage.png)
 
 
 ## Related projects🔗
