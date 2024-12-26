@@ -17,7 +17,7 @@
 ## Comparison with Existing Benchmarks📊
 
 <table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
-  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source. '*' The scale of our released benchmark is 617K, however Dysca is able to generate unlimited data to be tested.</caption>
+  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source.</caption>
   <thead>
     <tr>
       <th>Benchmark</th>
