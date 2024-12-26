@@ -1,23 +1,23 @@
 ## Multi-P<sup>2</sup>A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
 
-### Overview🔍
+## Overview🔍
 
-![Overview of Multi-P<sup>2</sup>A](./docs/Figure1-final.png)
+![Overview of Multi-P<sup>2</sup>A](./docs/overall.png)
 
 **Figure 1. Privacy evaluation framework. The framework consists of two key components: Privacy Awareness and Privacy Leakage. Privacy Awareness assesses the model's ability to identify the sensitivity of input data, including the privacy risks associated with images, requests, and the flow of private information in various scenarios. Privacy Leakage focuses on evaluating privacy risks in the model's outputs, classifying potential leakage into three categories: (1) extraction of private information from images, (2) inference of privacy from images, and (3) leakage of sensitive data originating from training data.**
 
 **Abstract -** Large Vision-Language Models (LVLMs) exhibit impressive potential across various tasks but also face significant privacy risks, limiting their practical applications. Current researches on privacy assessment for LVLMs is limited in scope, with gaps in both assessment dimensions and privacy categories. To bridge this gap, we propose Multi-P<sup>2</sup>A, a comprehensive benchmark for evaluating the privacy preservation capabilities of LVLMs in terms of privacy awareness and leakage. Privacy awareness measures the model's ability to recognize the privacy sensitivity of input data, while privacy leakage assesses the risk of the model unintentionally disclosing privacy information in its output. We design a range of sub-tasks to thoroughly evaluate the model's privacy protection offered by LVLMs. Multi-P<sup>2</sup>A covers 26 categories of personal privacy, 15 categories of trade secrets, and 18 categories of state secrets, totaling 31,962 samples. Based on Multi-P<sup>2</sup>A, we evaluate the privacy preservation capabilities of 21 open-source and 2 closed-source LVLMs. Our results reveal that current LVLMs generally pose a high risk of facilitating privacy breaches, with vulnerabilities varying across personal privacy, trade secret, and state secret.
 
-### VQA Generation
+## VQA Generation
 
-![VQA Generation Process](./docs/open-construction.png)
+![VQA Generation Process](./docs/figure2.png)
 
 **Figure 2. VQA Generation Process. We build Image Database and Attribute Database by collecting images and designing attributes for each privacy category. For each task, we create a variety of question templates which will be randomly selected to generate samples. Each VQA sample is the combination of an image from Image Database and a question from Question Templates.**
 
 ## Comparison with Existing Benchmarks📊
 
 <table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
-  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source. '*' The scale of our released benchmark is 617K, however Dysca is able to generate unlimited data to be tested.</caption>
+  <caption>Comparisons between existing privacy benchmarks. '-' indicates that the benchmark is not open-source.</caption>
   <thead>
     <tr>
       <th>Benchmark</th>
@@ -137,9 +137,11 @@
 
 ## Examples of VLBiasBench📸
 
-![Samples of Privacy Awareness](./docs/Open_African.png)
+### Privacy Awareness
+![Samples of Privacy Awareness](./docs/awareness.png)
 
-![Samples of Privacy Leakage](./docs/Close_3n.png)
+### Privacy Leakage
+![Samples of Privacy Leakage](./docs/leakage.png)
 
 
 ## Related projects🔗
@@ -154,9 +156,8 @@
 
 ## Links🔗
 
-🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/VLBiasBench)
+🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/Multi-P2A)
 
 🔗The link to our paper is [\[arxiv\]](https://arxiv.org/abs/2406.14194)
 
-🔗The link to our dataset is [\[Google Drive\]](https://drive.google.com/drive/folders/1YJx-6zCd506Xbm8rUtELKrRMp6nZbRuV?usp=drive_link)
-We introduce Multi-P<sup>2</sup>A, a Multi-perspective Privacy Assessment aimed at evaluating privacy risks of LVLMs comprehensively.
+🔗To get images, click [\[Google Drive\]](https://drive.google.com/file/d/1AF38j46PbDSIHSeruuxu4IwMswKH1wmX/view?usp=drive_link) or [\[Baidu NetDisk\]](https://pan.baidu.com/s/1UyvHVn6rasTO9dwK5-UGxQ?pwd=kuui)
