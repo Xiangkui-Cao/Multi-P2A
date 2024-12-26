@@ -160,6 +160,4 @@
 
 🔗The link to our paper is [\[arxiv\]](https://arxiv.org/abs/2406.14194)
 
-🔗The link to our dataset is [\[Google Drive\]](https://drive.google.com/file/d/1TxPxdEFFP2HBKnJX9q2eiJ3530PPxNkZ/view?usp=sharing)
-
-🔗The link to our dataset is [\[Baidu NetDisk\]](https://pan.baidu.com/s/1bp4wfwF6HIYECmd-WOwDlA?pwd=8mqx)
+🔗To get images, click [\[Google Drive\]](https://drive.google.com/file/d/1TxPxdEFFP2HBKnJX9q2eiJ3530PPxNkZ/view?usp=sharing) or [\[Baidu NetDisk\]](https://pan.baidu.com/s/1bp4wfwF6HIYECmd-WOwDlA?pwd=8mqx)
