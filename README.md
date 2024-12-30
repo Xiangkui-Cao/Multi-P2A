@@ -1,5 +1,14 @@
 ## Multi-P<sup>2</sup>A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
 
+## Links🔗
+
+🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/Multi-P2A)
+
+🔗The link to our paper is [\[arxiv\]](https://arxiv.org/abs/2412.19496)
+
+🔗To get images, click [\[Google Drive\]](https://drive.google.com/file/d/1AF38j46PbDSIHSeruuxu4IwMswKH1wmX/view?usp=drive_link) or [\[Baidu NetDisk\]](https://pan.baidu.com/s/1UyvHVn6rasTO9dwK5-UGxQ?pwd=kuui)
+
+
 ## Overview🔍
 
 ![Overview of Multi-P<sup>2</sup>A](./docs/overall.png)
@@ -154,10 +163,3 @@
 - [Shikra](https://github.com/shikras/shikra)
 - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
 
-## Links🔗
-
-🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/Multi-P2A)
-
-🔗The link to our paper is [\[arxiv\]](https://arxiv.org/abs/2412.19496)
-
-🔗To get images, click [\[Google Drive\]](https://drive.google.com/file/d/1AF38j46PbDSIHSeruuxu4IwMswKH1wmX/view?usp=drive_link) or [\[Baidu NetDisk\]](https://pan.baidu.com/s/1UyvHVn6rasTO9dwK5-UGxQ?pwd=kuui)
