@@ -93,7 +93,7 @@
   </tbody>
 </table>
 
-## Key statistics of VLBiasBench📊
+## Key statistics of Multi-P<sup>2</sup>A📊
 
 <table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
   <caption>In total, Multi-P<sup>2</sup>A comprises 31,962 samples. The sample scales for each task are shown below.</caption>
