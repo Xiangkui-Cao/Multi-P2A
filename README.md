@@ -144,7 +144,7 @@
 </table>
 
 
-## Examples of VLBiasBench📸
+## Examples of Multi-P<sup>2</sup>A📸
 
 ### Privacy Awareness
 ![Samples of Privacy Awareness](./docs/awareness.png)
