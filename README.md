@@ -1,4 +1,4 @@
-## Multi-P<sup>2</sup>A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
+## Multi-PA: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
 
 ## Links🔗
 
