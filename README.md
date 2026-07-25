@@ -1,5 +1,6 @@
 ## Multi-PA: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
 
+### Accepted By TIFS
 ## Links🔗
 
 🔗The link to our project is [\[github\]](https://github.com/Xiangkui-Cao/Multi-P2A)
